@@ -33,6 +33,3 @@ separate repository so it is contained, as the goal for [Solnet](https://github.
 
 - TO DO
 
-## License
-
-This is proprietary. _We will find you._
