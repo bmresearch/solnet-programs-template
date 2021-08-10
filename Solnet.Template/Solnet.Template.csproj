@@ -2,18 +2,18 @@
 
     <PropertyGroup>
         <Description>
-            Solnet.Mango implements functionality to integrate Mango Markets into .Net applications.
+            Solnet.Template implements functionality to integrate Template project into .Net applications.
         </Description>
         <TargetFramework>net5.0</TargetFramework>
 
         <IsPackable>false</IsPackable>
 
-        <RootNamespace>Solnet.Mango</RootNamespace>
+        <RootNamespace>Solnet.Template</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
         <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
-            <_Parameter1>Solnet.Mango.Test</_Parameter1>
+            <_Parameter1>Solnet.Template.Test</_Parameter1>
         </AssemblyAttribute>
     </ItemGroup>
 
